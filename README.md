@@ -8,3 +8,17 @@ Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.
 ## Powered by
 Yahoo Finance 
 
+## Libraries Used
+okHttp
+
+schematic
+
+Melnykov FAB
+
+Afollestad material dialogs
+
+PhilJay MPAndroidChart
+
+Android tablayouthelper
+
+gson
