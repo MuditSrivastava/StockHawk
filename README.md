@@ -6,19 +6,19 @@ Also include offline support
 Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) 
 
 ## Powered by
-Yahoo Finance 
+[Yahoo Finance ](https://finance.yahoo.com/)
 
 ## Libraries Used
-okHttp
+[okHttp](http://square.github.io/okhttp/)
 
-schematic
+[schematic](https://github.com/SimonVT/schematic)
 
-Melnykov FAB
+[Melnykov FAB](https://github.com/makovkastar/FloatingActionButton)
 
-Afollestad material dialogs
+[Afollestad material dialogs](https://github.com/afollestad/material-dialogs)
 
-PhilJay MPAndroidChart
+[PhilJay MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
-Android tablayouthelper
+[Android tablayouthelper](https://github.com/h6ah4i/android-tablayouthelper)
 
-gson
+[gson](https://github.com/google/gson)
