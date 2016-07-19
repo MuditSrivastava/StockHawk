@@ -23,7 +23,7 @@ Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.
 
 [gson](https://github.com/google/gson)
 
-## What I Learned
+## Concepts I Learned
 
 - Diagnose existing issues with an app
 - Making an app accessible to sight-impaired users
