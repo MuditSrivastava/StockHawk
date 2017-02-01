@@ -40,7 +40,7 @@ Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.
 App conforms to common standards found in the [Android Nanodegree General Project Guidelines](http://udacity.github.io/android-nanodegree-guidelines/core.html)
 
 ## Powered By
- [<img width="50%" src="https://www.leftronic.com/wp-content/uploads/2013/12/yahoofinance-logo.png"/>](https://finance.yahoo.com/)
+ [<img width="30%" src="https://www.leftronic.com/wp-content/uploads/2013/12/yahoofinance-logo.png"/>](https://finance.yahoo.com/)
 
 ## License
 
