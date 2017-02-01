@@ -5,21 +5,6 @@ Also include offline support
 
 Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) 
 
-## Libraries Used
-[okHttp](http://square.github.io/okhttp/)
-
-[schematic](https://github.com/SimonVT/schematic)
-
-[Melnykov FAB](https://github.com/makovkastar/FloatingActionButton)
-
-[Afollestad material dialogs](https://github.com/afollestad/material-dialogs)
-
-[PhilJay MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
-
-[Android tablayouthelper](https://github.com/h6ah4i/android-tablayouthelper)
-
-[gson](https://github.com/google/gson)
-
 ## Concepts Learned
 
 - Diagnose existing issues with an app
@@ -36,11 +21,26 @@ Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.
 <img width="30%" src="https://github.com/MuditSri-2908/StockHawk/blob/master/Screenshots/device-2016-09-03-213004.png"/>
 <img width="30%" src="https://github.com/MuditSri-2908/StockHawk/blob/master/Screenshots/device-2016-09-03-213215.png"/>
 
-## General Project Guideline
-App conforms to common standards found in the [Android Nanodegree General Project Guidelines](http://udacity.github.io/android-nanodegree-guidelines/core.html)
+## Libraries Used
+[okHttp](http://square.github.io/okhttp/)
+
+[schematic](https://github.com/SimonVT/schematic)
+
+[Melnykov FAB](https://github.com/makovkastar/FloatingActionButton)
+
+[Afollestad material dialogs](https://github.com/afollestad/material-dialogs)
+
+[PhilJay MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+
+[Android tablayouthelper](https://github.com/h6ah4i/android-tablayouthelper)
+
+[gson](https://github.com/google/gson)
 
 ## Powered By
  [<img width="30%" src="https://www.leftronic.com/wp-content/uploads/2013/12/yahoofinance-logo.png"/>](https://finance.yahoo.com/)
+
+## General Project Guideline
+App conforms to common standards found in the [Android Nanodegree General Project Guidelines](http://udacity.github.io/android-nanodegree-guidelines/core.html)
 
 ## License
 
