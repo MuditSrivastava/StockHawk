@@ -1,12 +1,25 @@
-# Stock Hawk
+#<img width="10%" src="https://github.com/MuditSri-2908/StockHawk/blob/master/StockHawk-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/>   Stock Hawk
 Android App used for monitoring stocks
 
 Also include offline support
 
 Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) 
 
-## Powered by
-[Yahoo Finance ](https://finance.yahoo.com/)
+## Concepts Learned
+
+- Diagnose existing issues with an app
+- Making an app accessible to sight-impaired users
+- Allow app to be localized for distribution in other countries.
+- Handling error cases in Android.
+- Adding a widget .
+- Leveraging the functionality of a library in an app.
+
+## Screenshots
+<img width="30%" src="https://github.com/MuditSri-2908/StockHawk/blob/master/Screenshots/device-2016-09-03-200712.png"/>
+<img width="30%" src="https://github.com/MuditSri-2908/StockHawk/blob/master/Screenshots/device-2016-09-03-212740.png"/>
+<img width="30%" src="https://github.com/MuditSri-2908/StockHawk/blob/master/Screenshots/device-2016-09-03-212827.png"/>
+<img width="30%" src="https://github.com/MuditSri-2908/StockHawk/blob/master/Screenshots/device-2016-09-03-213004.png"/>
+<img width="30%" src="https://github.com/MuditSri-2908/StockHawk/blob/master/Screenshots/device-2016-09-03-213215.png"/>
 
 ## Libraries Used
 [okHttp](http://square.github.io/okhttp/)
@@ -23,14 +36,8 @@ Created as a part of [Udacity Android Developer Nanodegree](https://www.udacity.
 
 [gson](https://github.com/google/gson)
 
-## Concepts Learned
-
-- Diagnose existing issues with an app
-- Making an app accessible to sight-impaired users
-- Allow app to be localized for distribution in other countries.
-- Handling error cases in Android.
-- Adding a widget .
-- Leveraging the functionality of a library in an app.
+## Powered By
+ [<img width="30%" src="https://www.leftronic.com/wp-content/uploads/2013/12/yahoofinance-logo.png"/>](https://finance.yahoo.com/)
 
 ## General Project Guideline
 App conforms to common standards found in the [Android Nanodegree General Project Guidelines](http://udacity.github.io/android-nanodegree-guidelines/core.html)
