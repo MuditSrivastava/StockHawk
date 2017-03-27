@@ -1,4 +1,4 @@
-#<img width="10%" src="https://github.com/MuditSri-2908/StockHawk/blob/master/StockHawk-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/>   Stock Hawk
+# <img width="10%" src="https://github.com/MuditSri-2908/StockHawk/blob/master/StockHawk-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/>   Stock Hawk
 Android App used for monitoring stocks
 
 Also include offline support
